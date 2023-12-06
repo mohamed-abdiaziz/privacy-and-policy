@@ -1,4 +1,4 @@
-Privacy Policy for Royal Airline
+## Privacy Policy for Royal Airline
 
 At Royal Airline, we are committed to safeguarding the privacy of our users. This Privacy Policy outlines how we collect, use, disclose, and manage your information when you use our app.
 
